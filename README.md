@@ -11,3 +11,6 @@
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
+
+### Security
+- [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
