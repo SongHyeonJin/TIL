@@ -14,3 +14,4 @@
 
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
+- [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
