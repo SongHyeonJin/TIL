@@ -9,6 +9,9 @@
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
 
+### Event Streaming
+- [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
+
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
 
