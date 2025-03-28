@@ -8,6 +8,7 @@
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
+- [Spring Boot + EC2 + MySQL 연동 배포 실습 기록](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/28.md)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
