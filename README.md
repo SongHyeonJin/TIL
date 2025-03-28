@@ -9,11 +9,12 @@
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
 
-### Event Streaming
-- [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
-
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
+
+### Kafka
+- [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
+- [Kafka 실행 중 "Shutdown broker because all log dirs have failed" 에러 해결기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/27.md)
 
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
