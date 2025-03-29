@@ -9,6 +9,7 @@
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
 - [Spring Boot + EC2 + MySQL 연동 배포 실습 기록](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/28.md)
+- [Spring Boot로 GitHub Actions 기반 CI/CD 구축하며 마주한 문제와 해결 과정](https://velog.io/@shwj203/SpringBoot%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%B4-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%9C-%EA%B3%BC%EC%A0%95)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
