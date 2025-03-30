@@ -1,5 +1,8 @@
 # TIL
 
+### Algorithm
+- [Grundy 값과 mex로 푸는 카드 뒤집기 게임](https://velog.io/@shwj203/Combinatorial-Game-Theory%EC%A1%B0%ED%95%A9-%EA%B2%8C%EC%9E%84-%EC%9D%B4%EB%A1%A0-%EC%9C%A0%ED%98%95)
+
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
 
