@@ -21,6 +21,9 @@
 - [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
 - [Kafka 실행 중 "Shutdown broker because all log dirs have failed" 에러 해결기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/27.md)
 
+### Logging
+- [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
+
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
 - [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
