@@ -27,3 +27,6 @@
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
 - [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
+
+### Spring Boot
+- [Spring Boot 테스트 삽질기 & @EnableJpaAuditing 이슈 해결](https://velog.io/@shwj203/Spring-Boot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%BD%EC%A7%88%EA%B8%B0-EnableJpaAuditing-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
