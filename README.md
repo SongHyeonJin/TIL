@@ -30,3 +30,4 @@
 
 ### Spring Boot
 - [Spring Boot 테스트 삽질기 & @EnableJpaAuditing 이슈 해결](https://velog.io/@shwj203/Spring-Boot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%BD%EC%A7%88%EA%B8%B0-EnableJpaAuditing-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
+- [Spring Boot start.sh 개선 과정과 그레이스풀 리스타트의 중요성](https://velog.io/@shwj203/Spring-Boot-start.sh-%EA%B0%9C%EC%84%A0-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%92%80-%EB%A6%AC%EC%8A%A4%ED%83%80%ED%8A%B8%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
