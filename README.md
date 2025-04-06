@@ -14,6 +14,7 @@
 - [Spring Boot + EC2 + MySQL 연동 배포 실습 기록](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/28.md)
 - [Spring Boot로 GitHub Actions 기반 CI/CD 구축하며 마주한 문제와 해결 과정](https://velog.io/@shwj203/SpringBoot%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%B4-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%9C-%EA%B3%BC%EC%A0%95)
 - [EC2에 Spring Boot 프로젝트 HTTPS 배포과정 (무료 도메인)](https://velog.io/@shwj203/EC2%EC%97%90-Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-HTTPS-%EB%B0%B0%ED%8F%AC-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EB%A9%94%EC%9D%B8%EB%B6%80%ED%84%B0-%EC%8B%A4%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%84%B1%EA%B9%8C%EC%A7%80)
+- [WSL과 Redis 설정 문제 해결 및 JWT 인증 구현 과정](https://velog.io/@shwj203/WSL%EA%B3%BC-Redis-%EC%84%A4%EC%A0%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%8F-JWT-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
