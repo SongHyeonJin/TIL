@@ -25,6 +25,7 @@
 
 ### Logging
 - [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
+- [Spring Boot에서 MDC를 활용한 요청별 로그 추적 및 바디 로깅](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-MDC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EC%B2%AD%EB%B3%84-%EB%A1%9C%EA%B7%B8-%EC%B6%94%EC%A0%81-%EB%B0%8F-%EB%B0%94%EB%94%94-%EB%A1%9C%EA%B9%85)
 
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
