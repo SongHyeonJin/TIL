@@ -38,3 +38,4 @@
 - [Swagger 설정 중 401 오류 및 multipart/form-data JSON 전달 문제 해결](https://velog.io/@shwj203/Swagger-%EC%84%A4%EC%A0%95-%EC%A4%91-401-%EC%98%A4%EB%A5%98-%EB%B0%8F-multipartform-data-JSON-%EC%A0%84%EB%8B%AC-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [application.yml 멀티 프로파일 구성으로 환경별 설정 분리하기](https://velog.io/@shwj203/application.yml-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EA%B5%AC%EC%84%B1%EC%9C%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%84-%EC%84%A4%EC%A0%95-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [멀티 모듈 구조로 전환한 이유와 과정](https://velog.io/@shwj203/%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%EA%B3%BC%EC%A0%95)
+- [SonarQube + JaCoCo 연동 자동화 초기설정 작업 기록](https://velog.io/@shwj203/SonarQube-JaCoCo-%EC%97%B0%EB%8F%99-%EC%9E%90%EB%8F%99%ED%99%94-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D)
