@@ -16,6 +16,7 @@
 - [EC2에 Spring Boot 프로젝트 HTTPS 배포과정 (무료 도메인)](https://velog.io/@shwj203/EC2%EC%97%90-Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-HTTPS-%EB%B0%B0%ED%8F%AC-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EB%A9%94%EC%9D%B8%EB%B6%80%ED%84%B0-%EC%8B%A4%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%84%B1%EA%B9%8C%EC%A7%80)
 - [WSL과 Redis 설정 문제 해결 및 JWT 인증 구현 과정](https://velog.io/@shwj203/WSL%EA%B3%BC-Redis-%EC%84%A4%EC%A0%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%8F-JWT-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%EA%B3%BC%EC%A0%95)
 - [로컬에서 Elasticsearch + Kibana로 EC2 Filebeat + SSH 리버스 터널링을 통한 로그 수집 및 시각화](https://velog.io/@shwj203/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-Elasticsearch-Kibana%EB%A1%9C-EC2-Filebeat-SSH-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%84%B0%EB%84%90%EB%A7%81%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EB%B0%8F-%EC%8B%9C%EA%B0%81%ED%99%94)
+- [린트(Lint, Linter)란?](https://velog.io/@shwj203/%EB%A6%B0%ED%8A%B8Lint-Linter%EB%9E%80)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
