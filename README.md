@@ -43,3 +43,4 @@
 - [멀티 모듈 구조로 전환한 이유와 과정](https://velog.io/@shwj203/%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%EA%B3%BC%EC%A0%95)
 - [SonarQube + JaCoCo 연동 자동화 초기설정 작업 기록](https://velog.io/@shwj203/SonarQube-JaCoCo-%EC%97%B0%EB%8F%99-%EC%9E%90%EB%8F%99%ED%99%94-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D)
 - [Github Actions 배포 중 YAML 설정 중복으로 Spring Boot 부팅 실패한 문제 해결기](https://velog.io/@shwj203/Github-Actions-%EB%B0%B0%ED%8F%AC-%EC%A4%91-YAML-%EC%84%A4%EC%A0%95-%EC%A4%91%EB%B3%B5%EC%9C%BC%EB%A1%9C-Spring-Boot-%EB%B6%80%ED%8C%85-%EC%8B%A4%ED%8C%A8%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0)
+- [로그인/로그아웃 토큰 응답 구조 개선](https://velog.io/@shwj203/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%ED%86%A0%ED%81%B0-%EC%9D%91%EB%8B%B5-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0)
