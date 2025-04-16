@@ -24,6 +24,7 @@
 ### Kafka
 - [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
 - [Kafka 실행 중 "Shutdown broker because all log dirs have failed" 에러 해결기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/27.md)
+- [Spring Boot + Kafka 연동해 메시지 송수신 구조 구현 예제](https://velog.io/@shwj203/Spring-Boot-Kafka-%EC%97%B0%EB%8F%99%ED%95%B4-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%86%A1%EC%88%98%EC%8B%A0-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84-%EC%98%88%EC%A0%9C)
 
 ### Logging
 - [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
