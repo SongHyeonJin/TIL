@@ -26,6 +26,7 @@
 - [Kafka 실행 중 "Shutdown broker because all log dirs have failed" 에러 해결기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/27.md)
 - [Spring Boot + Kafka 연동해 메시지 송수신 구조 구현 예제](https://velog.io/@shwj203/Spring-Boot-Kafka-%EC%97%B0%EB%8F%99%ED%95%B4-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%86%A1%EC%88%98%EC%8B%A0-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84-%EC%98%88%EC%A0%9C)
 - [카프카 스트림즈(Kafka Streams)란?](https://velog.io/@shwj203/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88Kafka-Streams)
+- [Spring Boot + Kafka Streams 연동해 구조 공부](https://velog.io/@shwj203/Spring-Boot-Kafka-Streams-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%B4%EC%84%9C-%EC%A7%91%EA%B3%84%ED%95%98%EB%8A%94-%EA%B5%AC%EC%A1%B0-%EA%B3%B5%EB%B6%80)
 
 ### Logging
 - [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
