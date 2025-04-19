@@ -33,6 +33,9 @@
 - [Spring Boot에서 MDC를 활용한 요청별 로그 추적 및 바디 로깅](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-MDC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EC%B2%AD%EB%B3%84-%EB%A1%9C%EA%B7%B8-%EC%B6%94%EC%A0%81-%EB%B0%8F-%EB%B0%94%EB%94%94-%EB%A1%9C%EA%B9%85)
 - [MDC(Mapped Diagnostic Context)에 대해 알아보자](https://velog.io/@shwj203/MDCMapped-Diagnostic-Context%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
+### Redis
+- [Redis에 대해 알아보자](https://velog.io/@shwj203/Redis%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
 - [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
