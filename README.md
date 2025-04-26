@@ -39,6 +39,7 @@
 - [Redis Lua 스크립트를 활용한 선착순 쿠폰 발급 동시성 제어](https://velog.io/@shwj203/Redis-Lua-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4)
 - [Redis Queue + Redisson으로 순서 보장한 선착순 쿠폰 발급 시스템](https://velog.io/@shwj203/Redis-Queue-Redisson%EC%9C%BC%EB%A1%9C-%EC%88%9C%EC%84%9C-%EB%B3%B4%EC%9E%A5%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [Redis Queue + Lua + Kafka 기반 선착순 쿠폰 발급 구조 개선기](https://velog.io/@shwj203/Redis-Queue-Lua-Kafka-%EA%B8%B0%EB%B0%98-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0%EA%B8%B0)
+- [Redis POLLING / BLOCKING / BRPOP / BLPOP 개념 정리](https://velog.io/@shwj203/Redis-BRPOP-BLPOP-POLLING-BLOCKING-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
