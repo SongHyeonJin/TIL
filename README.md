@@ -5,6 +5,7 @@
 
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
+- [멀티 서버 환경에서 쿠폰 발급 동시성 문제 해결 및 개선기](https://velog.io/@shwj203/%EB%A9%80%ED%8B%B0-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
