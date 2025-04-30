@@ -8,6 +8,9 @@
 - [멀티 서버 환경에서 쿠폰 발급 동시성 문제 해결 및 개선기](https://velog.io/@shwj203/%EB%A9%80%ED%8B%B0-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 - [RedisQueueWorker 구조 개선 (while 제거)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-while-%EC%A0%9C%EA%B1%B0)
 
+### Concurrency
+- [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
+
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
 
