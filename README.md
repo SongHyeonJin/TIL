@@ -35,6 +35,7 @@
 - [Spring Boot + Kafka Streams 연동해 구조 공부](https://velog.io/@shwj203/Spring-Boot-Kafka-Streams-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%B4%EC%84%9C-%EC%A7%91%EA%B3%84%ED%95%98%EB%8A%94-%EA%B5%AC%EC%A1%B0-%EA%B3%B5%EB%B6%80)
 - [Dead Letter Queue (DLQ)](https://velog.io/@shwj203/Dead-Letter-Queue-DLQ)
 - [Kafka Producer를 제너럴하게 리팩토링](https://velog.io/@shwj203/Kafka-Producer%EB%A5%BC-%EC%A0%9C%EB%84%88%EB%9F%B4%ED%95%98%EA%B2%8C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
+- [Kafka DLQ(Dead Letter Queue) 적용기](https://velog.io/@shwj203/Kafka-DLQDead-Letter-Queue-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 
 ### Logging
 - [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
