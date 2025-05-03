@@ -7,6 +7,7 @@
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
 - [멀티 서버 환경에서 쿠폰 발급 동시성 문제 해결 및 개선기](https://velog.io/@shwj203/%EB%A9%80%ED%8B%B0-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 - [RedisQueueWorker 구조 개선 (while 제거)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-while-%EC%A0%9C%EA%B1%B0)
+- [쿠팡파트너스 API + GPT를 활용한 개인화 추천 구조 설계](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API-GPT%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
