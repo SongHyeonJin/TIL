@@ -14,6 +14,7 @@
 
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
+- [[DB] 낙관적 락 (Optimisic Lock), 비관적 락 (Pessimistic Lock)](https://velog.io/@shwj203/DB-%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD-Optimisic-Lock-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD-Pessimistic-Lock)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
