@@ -10,6 +10,7 @@
 - [쿠팡파트너스 API + GPT를 활용한 개인화 추천 구조 설계](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API-GPT%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84)
 - [2PC (Two-Phase Commit)](https://velog.io/@shwj203/2PC-Two-Phase-Commit)
 - [3PC와 Saga 패턴 이해하기](https://velog.io/@shwj203/3PC-Saga-%ED%8C%A8%ED%84%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [트랜잭션 아웃박스 패턴(Transaction Outbox Pattern)](https://velog.io/@shwj203/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%95%84%EC%9B%83%EB%B0%95%EC%8A%A4-%ED%8C%A8%ED%84%B4Transaction-Outbox-Pattern)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
