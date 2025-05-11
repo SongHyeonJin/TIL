@@ -61,6 +61,7 @@
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
 - [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
 - [운영 서버에서 allowPublicKeyRetrieval=true 제거 및 보안 설정 변경](https://velog.io/@shwj203/%EC%9A%B4%EC%98%81-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-allowPublicKeyRetrievaltrue-%EC%A0%9C%EA%B1%B0-%EB%B0%8F-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD)
+- [쿠팡파트너스 API 연동: HMAC 서명과 상품 검색 구현](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API-%EC%97%B0%EB%8F%99-HMAC-%EC%84%9C%EB%AA%85%EA%B3%BC-%EC%83%81%ED%92%88-%EA%B2%80%EC%83%89-%EA%B5%AC%ED%98%84)
 
 ### Spring Boot
 - [Spring Boot 테스트 삽질기 & @EnableJpaAuditing 이슈 해결](https://velog.io/@shwj203/Spring-Boot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%BD%EC%A7%88%EA%B8%B0-EnableJpaAuditing-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
