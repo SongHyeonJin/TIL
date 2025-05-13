@@ -75,3 +75,6 @@
 - [로그인/로그아웃 토큰 응답 구조 개선](https://velog.io/@shwj203/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%ED%86%A0%ED%81%B0-%EC%9D%91%EB%8B%B5-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0)
 - [Spring REST Docs란?](https://velog.io/@shwj203/Spring-REST-Docs%EB%9E%80)
 - [AOP를 활용한 세션 자동 저장 구현기](https://velog.io/@shwj203/AOP%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EC%85%98-%EC%9E%90%EB%8F%99-%EC%A0%80%EC%9E%A5-%EA%B5%AC%ED%98%84%EA%B8%B0)
+
+### Trobleshooting
+- [쿠팡파트너스 검색 API 호출 제한 및 가격 필터링 이슈](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%ED%95%84%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%8A%88)
