@@ -13,6 +13,7 @@
 - [트랜잭션 아웃박스 패턴(Transaction Outbox Pattern)](https://velog.io/@shwj203/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%95%84%EC%9B%83%EB%B0%95%EC%8A%A4-%ED%8C%A8%ED%84%B4Transaction-Outbox-Pattern)
 - [RedisQueueWorker 멀티 서버 안정성 확보를 위한 개선](https://velog.io/@shwj203/RedisQueueWorker-%EB%A9%80%ED%8B%B0-%EC%84%9C%EB%B2%84-%EC%95%88%EC%A0%95%EC%84%B1-%ED%99%95%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C)
 - [Eventual Consistency (최종적 일관성)란?](https://velog.io/@shwj203/Eventual-Consistency-%EC%B5%9C%EC%A2%85%EC%A0%81-%EC%9D%BC%EA%B4%80%EC%84%B1%EB%9E%80)
+- [서버리스(Serverless)란?](https://velog.io/@shwj203/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4Serverless%EB%9E%80)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
