@@ -80,3 +80,6 @@
 ### Trobleshooting
 - [쿠팡파트너스 검색 API 호출 제한 및 가격 필터링 이슈](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%ED%95%84%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%8A%88)
 - [쿠팡파트너스 API에서 네이버 쇼핑 API로 전환한 이유](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API%EC%97%90%EC%84%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%87%BC%ED%95%91-API%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+
+### 프로젝트 회고
+- [선물 추천 키워드 조합 및 브랜드 중복 필터링 구현기](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A1%B0%ED%95%A9-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A4%91%EB%B3%B5-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%EA%B8%B0)
