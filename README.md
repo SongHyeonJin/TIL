@@ -83,3 +83,4 @@
 
 ### 프로젝트 회고
 - [선물 추천 키워드 조합 및 브랜드 중복 필터링 구현기](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A1%B0%ED%95%A9-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A4%91%EB%B3%B5-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%EA%B8%B0)
+- [선물 추천 서비스에 서버리스 아키텍처는 적합할까?](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%A0%81%ED%95%A9%ED%95%A0%EA%B9%8C)
