@@ -55,6 +55,7 @@
 
 ### OS
 - [프로세스와 스레드](https://velog.io/@shwj203/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
+- [스레드 생성과 실행 방식](https://velog.io/@shwj203/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%8B%A4%ED%96%89-%EB%B0%A9%EC%8B%9D)
 
 ### Redis
 - [Redis에 대해 알아보자](https://velog.io/@shwj203/Redis%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
