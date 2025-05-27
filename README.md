@@ -59,6 +59,7 @@
 - [스레드 생명 주기와 Runnable의 예외 처리 제약 이해하기](https://velog.io/@shwj203/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%83%9D%EB%AA%85-%EC%A3%BC%EA%B8%B0%EC%99%80-Runnable%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%EC%A0%9C%EC%95%BD-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [sleep과 join으로 스레드 동기화와 생명주기 이해하기](https://velog.io/@shwj203/sleep%EA%B3%BC-join%EC%9C%BC%EB%A1%9C-%EC%8A%A4%EB%A0%88%EB%93%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EC%99%80-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [자바 스레드 제어 (Interrupt, yield)](https://velog.io/@shwj203/%EC%9E%90%EB%B0%94-%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%A0%9C%EC%96%B4-Interrupt-yield)
+- [자바 동시성 제어 핵심 키워드 정리 (volatile, synchronized, Atomic)](https://velog.io/@shwj203/%EC%9E%90%EB%B0%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%ED%95%B5%EC%8B%AC-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-volatile-synchronized-Atomic)
 
 ### Redis
 - [Redis에 대해 알아보자](https://velog.io/@shwj203/Redis%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
