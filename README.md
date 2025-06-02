@@ -55,6 +55,7 @@
 
 ### Network
 - [TIME_WAIT란 무엇이고 왜 발생하는가?](https://velog.io/@shwj203/TIMEWAIT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%EA%B0%80)
+- [OSI 7계층이란?](https://velog.io/@shwj203/OSI-7%EA%B3%84%EC%B8%B5%EC%9D%B4%EB%9E%80)
 
 ### OS
 - [프로세스와 스레드](https://velog.io/@shwj203/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
