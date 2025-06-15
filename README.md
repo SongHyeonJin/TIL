@@ -16,6 +16,7 @@
 - [Eventual Consistency (최종적 일관성)란?](https://velog.io/@shwj203/Eventual-Consistency-%EC%B5%9C%EC%A2%85%EC%A0%81-%EC%9D%BC%EA%B4%80%EC%84%B1%EB%9E%80)
 - [서버리스(Serverless)란?](https://velog.io/@shwj203/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4Serverless%EB%9E%80)
 - [왜 로그를 쌓아야 할까? 그리고 작은 서비스에서 어떻게 쌓는 게 현실적일까?](https://velog.io/@shwj203/%EC%99%9C-%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8C%93%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%91%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8C%93%EB%8A%94-%EA%B2%8C-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%BC%EA%B9%8C)
+- [로그를 DB에 저장하려다 Appender로 실패하고 Spring 구조로 바꾼 이유](https://velog.io/@shwj203/%EB%A1%9C%EA%B7%B8%EB%A5%BC-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EB%A0%A4%EB%8B%A4-Appender%EB%A1%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B3%A0-Spring-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
