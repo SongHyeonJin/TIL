@@ -41,6 +41,9 @@
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
 
+### Java
+- [객체지향의 오해와 진실](https://velog.io/@shwj203/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%98%A4%ED%95%B4%EC%99%80-%EC%A7%84%EC%8B%A4)
+
 ### Jpa
 - [JPA의 영속성 컨텍스트(Persistence Context)와 엔티티 매니저(EntityManager)](https://velog.io/@shwj203/JPA%EC%9D%98-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8Persistence-Context%EC%99%80-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%EB%8B%88%EC%A0%80EntityManager)
 
