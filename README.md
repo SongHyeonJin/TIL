@@ -26,6 +26,7 @@
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
 - [[DB] 낙관적 락 (Optimisic Lock), 비관적 락 (Pessimistic Lock)](https://velog.io/@shwj203/DB-%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD-Optimisic-Lock-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD-Pessimistic-Lock)
+- [RDBMS와 NoSQL의 차이점 정리 및 로그 저장 구조 개선 방향](https://velog.io/@shwj203/RDBMS%EC%99%80-NoSQL%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EB%A1%9C%EA%B7%B8-%EC%A0%80%EC%9E%A5-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-%EB%B0%A9%ED%96%A5)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
