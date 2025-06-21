@@ -39,6 +39,7 @@
 - [K6로 선착순 쿠폰 발급 시스템 부하 테스트](https://velog.io/@shwj203/K6%EB%A1%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [Windows에서 SCP 전송 시 PEM 권한 문제 해결](https://velog.io/@shwj203/Windows%EC%97%90%EC%84%9C-SCP-%EC%A0%84%EC%86%A1-%EC%8B%9C-PEM-%EA%B6%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [기존 EC2 인스턴스에서 HTTPS 전환과 Swagger CORS 문제 해결기](https://velog.io/@shwj203/%EA%B8%B0%EC%A1%B4-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90%EC%84%9C-HTTPS-%EC%A0%84%ED%99%98%EA%B3%BC-Swagger-CORS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0)
+- [클라우드 비용 없이 Kibana 로그 공유하는 구조 설계기](https://velog.io/@shwj203/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%97%86%EC%9D%B4-Kibana-%EB%A1%9C%EA%B7%B8-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84%EA%B8%B0)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
