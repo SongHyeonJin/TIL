@@ -111,6 +111,7 @@
 - [JPA LazyInitializationException 발생한 이유와 해결 방법](https://velog.io/@shwj203/JPA-LazyInitializationException-%EB%B0%9C%EC%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 - [필터(Filter)와 인터셉터(Interceptor) 차이](https://velog.io/@shwj203/%ED%95%84%ED%84%B0Filter%EC%99%80-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0Interceptor-%EC%B0%A8%EC%9D%B4)
 - [디스패처 서블릿(Dispatcher-Servlet)이란?](https://velog.io/@shwj203/%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98-%EC%84%9C%EB%B8%94%EB%A6%BFDispatcher-Servlet%EC%9D%B4%EB%9E%80)
+- [@Transactional(readOnly = true)를 사용하는 이유와 주의할 점](https://velog.io/@shwj203/TransactionalreadOnly-true%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
 
 ### Trobleshooting
 - [쿠팡파트너스 검색 API 호출 제한 및 가격 필터링 이슈](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%ED%95%84%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%8A%88)
