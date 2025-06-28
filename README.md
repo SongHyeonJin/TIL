@@ -29,6 +29,7 @@
 - [[DB] 낙관적 락 (Optimisic Lock), 비관적 락 (Pessimistic Lock)](https://velog.io/@shwj203/DB-%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD-Optimisic-Lock-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD-Pessimistic-Lock)
 - [RDBMS와 NoSQL의 차이점 정리 및 로그 저장 구조 개선 방향](https://velog.io/@shwj203/RDBMS%EC%99%80-NoSQL%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EB%A1%9C%EA%B7%B8-%EC%A0%80%EC%9E%A5-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-%EB%B0%A9%ED%96%A5)
 - [데이터베이스 정규화 vs 비정규화](https://velog.io/@shwj203/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A0%95%EA%B7%9C%ED%99%94-vs-%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94)
+- [JPA에서 불필요한 조인을 줄이고 DTO로 조회하는 방법](https://velog.io/@shwj203/JPA%EC%97%90%EC%84%9C-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EC%A1%B0%EC%9D%B8%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B3%A0-DTO%EB%A1%9C-%EC%A1%B0%ED%9A%8C%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
