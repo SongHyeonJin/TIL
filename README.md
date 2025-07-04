@@ -20,6 +20,7 @@
 - [로그를 DB에 저장하려다 Appender로 실패하고 Spring 구조로 바꾼 이유](https://velog.io/@shwj203/%EB%A1%9C%EA%B7%B8%EB%A5%BC-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EB%A0%A4%EB%8B%A4-Appender%EB%A1%9C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B3%A0-Spring-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0)
 - [클린 아키텍처 개념과 계층 구조, 고수준/저수준 컴포넌트 이해](https://velog.io/@shwj203/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0-%EA%B3%A0%EC%88%98%EC%A4%80%EC%A0%80%EC%88%98%EC%A4%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%9D%B4%ED%95%B4)
 - [결제 시스템 아키텍처와 핵심 기술 정리](https://velog.io/@shwj203/%EA%B2%B0%EC%A0%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
+- [Kafka 장애 상황에서 메시지 유실 없이 처리하기 위한 설계 전략](https://velog.io/@shwj203/Kafka-%EC%9E%A5%EC%95%A0-%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%8B%A4%EC%9D%84-%EB%A7%89%EB%8A%94-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
