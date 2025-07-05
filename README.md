@@ -33,6 +33,7 @@
 - [데이터베이스 정규화 vs 비정규화](https://velog.io/@shwj203/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A0%95%EA%B7%9C%ED%99%94-vs-%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94)
 - [JPA에서 불필요한 조인을 줄이고 DTO로 조회하는 방법](https://velog.io/@shwj203/JPA%EC%97%90%EC%84%9C-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EC%A1%B0%EC%9D%B8%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B3%A0-DTO%EB%A1%9C-%EC%A1%B0%ED%9A%8C%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95)
 - [RDS와 Redis는 어디에 데이터를 저장할까?](https://velog.io/@shwj203/RDS%EC%99%80-Redis%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C)
+- [인덱스 최적화(Index Optimization)](https://velog.io/@shwj203/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94Index-Optimization)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
