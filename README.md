@@ -36,6 +36,7 @@
 - [인덱스 최적화(Index Optimization)](https://velog.io/@shwj203/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94Index-Optimization)
 - [MySQL 실행계획(Explain) 정리](https://velog.io/@shwj203/MySQL-%EC%8B%A4%ED%96%89%EA%B3%84%ED%9A%8DExplain-%EC%A0%95%EB%A6%AC)
 - [데이터베이스 정규화(Normalization)란?](https://velog.io/@shwj203/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A0%95%EA%B7%9C%ED%99%94Normalization%EB%9E%80)
+- [역정규화(Denormalization)는 언제, 왜, 어떻게 써야 할까?](https://velog.io/@shwj203/%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94Denormalization%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%99%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
