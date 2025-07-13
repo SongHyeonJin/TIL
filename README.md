@@ -39,6 +39,9 @@
 - [역정규화(Denormalization)는 언제, 왜, 어떻게 써야 할까?](https://velog.io/@shwj203/%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94Denormalization%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%99%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [SQL JOIN 종류 정리](https://velog.io/@shwj203/SQL-JOIN-%EC%A2%85%EB%A5%98-%EC%A0%95%EB%A6%AC)
 
+### Design Pattern
+- [디자인 패턴이란? 그리고 생성(Creational) 디자인 패턴 정리](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1Creational-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A0%95%EB%A6%AC)
+
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
 - [Spring Boot + EC2 + MySQL 연동 배포 실습 기록](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/28.md)
