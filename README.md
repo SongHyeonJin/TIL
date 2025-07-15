@@ -42,6 +42,7 @@
 ### Design Pattern
 - [디자인 패턴이란? 그리고 생성(Creational) 디자인 패턴 정리](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1Creational-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A0%95%EB%A6%AC)
 - [디자인 패턴 - 구조 패턴(Structural Patterns)](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4Structural-Patterns)
+- [디자인 패턴 - 행위(Behavioral) 패턴](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%96%89%EC%9C%84Behavioral-%ED%8C%A8%ED%84%B4)
 
 ### DevOps
 - [CI/CD](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/22.md)
