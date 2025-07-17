@@ -88,6 +88,10 @@
 - [OSI 7계층이란?](https://velog.io/@shwj203/OSI-7%EA%B3%84%EC%B8%B5%EC%9D%B4%EB%9E%80)
 - [TCP/IP 4계층](https://velog.io/@shwj203/TCPIP-4%EA%B3%84%EC%B8%B5)
 
+### OpenAI
+- [OpenAI Function Calling 기능 정리 (with Java)
+](https://velog.io/@shwj203/OpenAI-Function-Calling-%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC-with-Java)
+
 ### OS
 - [프로세스와 스레드](https://velog.io/@shwj203/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
 - [스레드 생성과 실행 방식](https://velog.io/@shwj203/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%8B%A4%ED%96%89-%EB%B0%A9%EC%8B%9D)
