@@ -134,6 +134,7 @@
 - [디스패처 서블릿(Dispatcher-Servlet)이란?](https://velog.io/@shwj203/%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98-%EC%84%9C%EB%B8%94%EB%A6%BFDispatcher-Servlet%EC%9D%B4%EB%9E%80)
 - [@Transactional(readOnly = true)를 사용하는 이유와 주의할 점](https://velog.io/@shwj203/TransactionalreadOnly-true%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [Graceful Shutdown이란?](https://velog.io/@shwj203/Graceful-Shutdown%EC%9D%B4%EB%9E%80)
+- [JAR vs WAR 이해하기](https://velog.io/@shwj203/JAR-vs-WAR-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 ### Spring Security
 - [쿠키와 세션의 차이와 동작 방식 정리](https://velog.io/@shwj203/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%99%80-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC)
