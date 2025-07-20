@@ -148,6 +148,9 @@
 - [동시성 이슈 해결기: KeywordGroup 저장 시 중복 삽입 문제와 캐시 기반 최적화](https://velog.io/@shwj203/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%EA%B8%B0-KeywordGroup-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%A4%91%EB%B3%B5-%EC%82%BD%EC%9E%85-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%BA%90%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [추천 시스템 키워드 처리 리팩토링과 fallback 보완 전략](https://velog.io/@shwj203/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B2%98%EB%A6%AC-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EA%B3%BC-fallback-%EB%B3%B4%EC%99%84-%EC%A0%84%EB%9E%B5)
 
+### 컴퓨터 구조
+- [[컴퓨터 구조] CPU와 레지스터의 개념과 흐름 정리](https://velog.io/@shwj203/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-CPU%EC%99%80-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
+
 ### 프로젝트 회고
 - [선물 추천 키워드 조합 및 브랜드 중복 필터링 구현기](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A1%B0%ED%95%A9-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A4%91%EB%B3%B5-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%EA%B8%B0)
 - [선물 추천 서비스에 서버리스 아키텍처는 적합할까?](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%A0%81%ED%95%A9%ED%95%A0%EA%B9%8C)
