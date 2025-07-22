@@ -99,6 +99,7 @@
 - [sleep과 join으로 스레드 동기화와 생명주기 이해하기](https://velog.io/@shwj203/sleep%EA%B3%BC-join%EC%9C%BC%EB%A1%9C-%EC%8A%A4%EB%A0%88%EB%93%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EC%99%80-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [자바 스레드 제어 (Interrupt, yield)](https://velog.io/@shwj203/%EC%9E%90%EB%B0%94-%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%A0%9C%EC%96%B4-Interrupt-yield)
 - [자바 동시성 제어 핵심 키워드 정리 (volatile, synchronized, Atomic)](https://velog.io/@shwj203/%EC%9E%90%EB%B0%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%ED%95%B5%EC%8B%AC-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-volatile-synchronized-Atomic)
+- [[운영체제] CPU 스케줄링](https://velog.io/@shwj203/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
 
 ### Product Analytics
 - [GA4(Google Analytics 4)란 무엇인가?](https://velog.io/@shwj203/GA4Google-Analytics-4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
