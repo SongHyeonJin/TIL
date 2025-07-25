@@ -101,6 +101,7 @@
 - [자바 동시성 제어 핵심 키워드 정리 (volatile, synchronized, Atomic)](https://velog.io/@shwj203/%EC%9E%90%EB%B0%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%ED%95%B5%EC%8B%AC-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-volatile-synchronized-Atomic)
 - [[운영체제] CPU 스케줄링](https://velog.io/@shwj203/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
 - [[운영체제] 뮤텍스(Mutex)와 세마포어(Semaphore)](https://velog.io/@shwj203/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%AE%A4%ED%85%8D%EC%8A%A4Mutex%EC%99%80-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4Semaphore)
+- [[운영체제] 가상 메모리(Virtual Memory)](https://velog.io/@shwj203/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%ACVirtual-Memory)
 
 ### Product Analytics
 - [GA4(Google Analytics 4)란 무엇인가?](https://velog.io/@shwj203/GA4Google-Analytics-4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
