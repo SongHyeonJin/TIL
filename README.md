@@ -88,6 +88,7 @@
 - [TIME_WAIT란 무엇이고 왜 발생하는가?](https://velog.io/@shwj203/TIMEWAIT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%EA%B0%80)
 - [OSI 7계층이란?](https://velog.io/@shwj203/OSI-7%EA%B3%84%EC%B8%B5%EC%9D%B4%EB%9E%80)
 - [TCP/IP 4계층](https://velog.io/@shwj203/TCPIP-4%EA%B3%84%EC%B8%B5)
+- [IPv4, IPv6, ARP, ICMP - 인터넷 통신의 핵심 프로토콜](https://velog.io/@shwj203/IPv4-IPv6-ARP-ICMP-%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%86%B5%EC%8B%A0%EC%9D%98-%ED%95%B5%EC%8B%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 
 ### OpenAI
 - [OpenAI Function Calling 기능 정리 (with Java)
