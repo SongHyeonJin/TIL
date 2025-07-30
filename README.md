@@ -5,6 +5,8 @@
 - [플로이드-워셜(Floyd-Warshall) 이해하기](https://velog.io/@shwj203/Java-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9CFloyd-Warshall-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [그래프 탐색 알고리즘 이해하기 - BFS vs DFS](https://velog.io/@shwj203/%EA%B7%B8%EB%9E%98%ED%94%84-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B9%8A%EC%9D%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-BFS-vs-DFS)
 - [백트래킹(Backtracking)과 DFS(깊이 우선 탐색)](https://velog.io/@shwj203/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EA%B3%BC-DFS%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89)
+- [이분 탐색(Binary Search)
+](https://velog.io/@shwj203/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89Binary-Search)
 
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
