@@ -24,6 +24,7 @@
 - [클린 아키텍처 개념과 계층 구조, 고수준/저수준 컴포넌트 이해](https://velog.io/@shwj203/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0-%EA%B3%A0%EC%88%98%EC%A4%80%EC%A0%80%EC%88%98%EC%A4%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%9D%B4%ED%95%B4)
 - [결제 시스템 아키텍처와 핵심 기술 정리](https://velog.io/@shwj203/%EA%B2%B0%EC%A0%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
 - [Kafka 장애 상황에서 메시지 유실 없이 처리하기 위한 설계 전략](https://velog.io/@shwj203/Kafka-%EC%9E%A5%EC%95%A0-%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%8B%A4%EC%9D%84-%EB%A7%89%EB%8A%94-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5)
+- [다중 사이트 상품 크롤링 DB 설계 과정](https://velog.io/@shwj203/%EB%8B%A4%EC%A4%91-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%ED%92%88-%ED%81%AC%EB%A1%A4%EB%A7%81-DB-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
