@@ -43,6 +43,7 @@
 - [역정규화(Denormalization)는 언제, 왜, 어떻게 써야 할까?](https://velog.io/@shwj203/%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94Denormalization%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%99%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [SQL JOIN 종류 정리](https://velog.io/@shwj203/SQL-JOIN-%EC%A2%85%EB%A5%98-%EC%A0%95%EB%A6%AC)
 - [OLAP이란?](https://velog.io/@shwj203/OLAP%EC%9D%B4%EB%9E%80)
+- [데이터 웨어하우스(Data Warehouse, DW)란?](https://velog.io/@shwj203/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9B%A8%EC%96%B4%ED%95%98%EC%9A%B0%EC%8A%A4Data-Warehouse-DW%EB%9E%80)
 
 ### Design Pattern
 - [디자인 패턴이란? 그리고 생성(Creational) 디자인 패턴 정리](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1Creational-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A0%95%EB%A6%AC)
