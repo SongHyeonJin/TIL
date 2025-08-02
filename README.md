@@ -68,6 +68,9 @@
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
 
+### Infra
+- [RAID란?](https://velog.io/@shwj203/RAID%EB%9E%80)
+
 ### Java
 - [객체지향의 오해와 진실](https://velog.io/@shwj203/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%98%A4%ED%95%B4%EC%99%80-%EC%A7%84%EC%8B%A4)
 
