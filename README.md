@@ -9,6 +9,7 @@
 ](https://velog.io/@shwj203/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89Binary-Search)
 - [투포인터(Two Pointers) 알고리즘](https://velog.io/@shwj203/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0Two-Pointers-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [Greedy 알고리즘 (탐욕 알고리즘)](https://velog.io/@shwj203/Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [유클리드 호제법(Euclidean Algorithm)](https://velog.io/@shwj203/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
 
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
