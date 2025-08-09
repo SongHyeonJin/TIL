@@ -12,6 +12,7 @@
 - [유클리드 호제법(Euclidean Algorithm)](https://velog.io/@shwj203/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
 - [시뮬레이션(Simulation) 알고리즘](https://velog.io/@shwj203/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98Simulation-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [애드혹 알고리즘 (Ad-hoc Algorithm)](https://velog.io/@shwj203/%EC%95%A0%EB%93%9C%ED%98%B9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Ad-hoc-Algorithm)
+- [최소 스패닝 트리(Minimum Spanning Tree, MST) 알고리즘](https://velog.io/@shwj203/%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
