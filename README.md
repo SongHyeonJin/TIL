@@ -83,6 +83,7 @@
 
 ### Jpa
 - [JPA의 영속성 컨텍스트(Persistence Context)와 엔티티 매니저(EntityManager)](https://velog.io/@shwj203/JPA%EC%9D%98-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8Persistence-Context%EC%99%80-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%EB%8B%88%EC%A0%80EntityManager)
+- [JPA 벌크 업데이트로 다건 상태 갱신 최적화 (IN + @Modifying)](https://velog.io/@shwj203/JPA-%EB%B2%8C%ED%81%AC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A1%9C-%EB%8B%A4%EA%B1%B4-%EC%83%81%ED%83%9C-%EA%B0%B1%EC%8B%A0-%EC%B5%9C%EC%A0%81%ED%99%94-IN-Modifying)
 
 ### Kafka
 - [Kafka 핵심 개념, 구조, 구성 요소 정리](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/26.md)
