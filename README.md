@@ -32,6 +32,7 @@
 - [Kafka 장애 상황에서 메시지 유실 없이 처리하기 위한 설계 전략](https://velog.io/@shwj203/Kafka-%EC%9E%A5%EC%95%A0-%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%8B%A4%EC%9D%84-%EB%A7%89%EB%8A%94-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5)
 - [다중 사이트 상품 크롤링 DB 설계 과정](https://velog.io/@shwj203/%EB%8B%A4%EC%A4%91-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%ED%92%88-%ED%81%AC%EB%A1%A4%EB%A7%81-DB-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
 - [크롤링 기반 추천 시스템 설계: 데이터 수집부터 점수화까지](https://velog.io/@shwj203/%EC%83%81%ED%92%88-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91%EA%B4%80%EB%A6%AC%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EA%B3%A0%EB%AF%BC)
+- [Monolithic, SOA, MSA 아키텍처 비교](https://velog.io/@shwj203/Monolithic-SOA-MSA-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B9%84%EA%B5%90)
 
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
