@@ -184,6 +184,7 @@
 - [Redis Lua Script로 네이버 API 호출 제한 제어 및 429 오류 해결기](https://velog.io/@shwj203/Redis-Lua-Script%EB%A1%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EC%A0%9C%EC%96%B4-%EB%B0%8F-429-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EA%B8%B0)
 - [동시성 이슈 해결기: KeywordGroup 저장 시 중복 삽입 문제와 캐시 기반 최적화](https://velog.io/@shwj203/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%EA%B8%B0-KeywordGroup-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%A4%91%EB%B3%B5-%EC%82%BD%EC%9E%85-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%BA%90%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [추천 시스템 키워드 처리 리팩토링과 fallback 보완 전략](https://velog.io/@shwj203/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B2%98%EB%A6%AC-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EA%B3%BC-fallback-%EB%B3%B4%EC%99%84-%EC%A0%84%EB%9E%B5)
+- [추천 서비스에서 광고/비광고 노출 정책과 크롤링 안정성 고민](https://velog.io/@shwj203/%EA%B4%91%EA%B3%A0-%EA%B0%9C%EC%88%98-%EA%B3%A0%EC%A0%95-%EC%9D%B4%EC%8A%88-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%B0%A8%EB%8B%A8-%EB%8C%80%EC%9D%91)
 
 ### 컴퓨터 구조
 - [[컴퓨터 구조] CPU와 레지스터의 개념과 흐름 정리](https://velog.io/@shwj203/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-CPU%EC%99%80-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
