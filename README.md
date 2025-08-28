@@ -106,6 +106,9 @@
 - [Spring Boot에서 MDC를 활용한 요청별 로그 추적 및 바디 로깅](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-MDC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EC%B2%AD%EB%B3%84-%EB%A1%9C%EA%B7%B8-%EC%B6%94%EC%A0%81-%EB%B0%8F-%EB%B0%94%EB%94%94-%EB%A1%9C%EA%B9%85)
 - [MDC(Mapped Diagnostic Context)에 대해 알아보자](https://velog.io/@shwj203/MDCMapped-Diagnostic-Context%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
+### Marketing
+- [검색 엔진 최적화(SEO) 이해하기](https://velog.io/@shwj203/%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94SEO-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+
 ### Network
 - [TIME_WAIT란 무엇이고 왜 발생하는가?](https://velog.io/@shwj203/TIMEWAIT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%EA%B0%80)
 - [OSI 7계층이란?](https://velog.io/@shwj203/OSI-7%EA%B3%84%EC%B8%B5%EC%9D%B4%EB%9E%80)
