@@ -116,6 +116,7 @@
 - [IPv4, IPv6, ARP, ICMP - 인터넷 통신의 핵심 프로토콜](https://velog.io/@shwj203/IPv4-IPv6-ARP-ICMP-%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%86%B5%EC%8B%A0%EC%9D%98-%ED%95%B5%EC%8B%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 - [HTTP 완벽 가이드 - 커넥션 관리](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%BB%A4%EB%84%A5%EC%85%98-%EA%B4%80%EB%A6%AC)
 - [HTTP 완벽 가이드 - 웹 서버](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B2%84)
+- [HTTP 완벽가이드 - URL과 리소스](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-2%EC%9E%A5-URL%EA%B3%BC-%EB%A6%AC%EC%86%8C%EC%8A%A4)
 
 ### OpenAI
 - [OpenAI Function Calling 기능 정리 (with Java)
