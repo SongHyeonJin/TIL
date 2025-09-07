@@ -118,6 +118,7 @@
 - [HTTP 완벽 가이드 - 웹 서버](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B2%84)
 - [HTTP 완벽가이드 - URL과 리소스](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-2%EC%9E%A5-URL%EA%B3%BC-%EB%A6%AC%EC%86%8C%EC%8A%A4)
 - [HTTP 완벽 가이드 - 프락시(Proxy)](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%94%84%EB%9D%BD%EC%8B%9CProxy)
+- [HTTP 완벽 가이드 - 캐시(Cache)](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%9CCache)
 
 ### OpenAI
 - [OpenAI Function Calling 기능 정리 (with Java)
