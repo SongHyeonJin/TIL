@@ -219,3 +219,4 @@
 - [자동 점수 부여 로직과 displayName 정제 규칙 설계](https://velog.io/@shwj203/%EC%9E%90%EB%8F%99-%EC%A0%90%EC%88%98-%EB%B6%80%EC%97%AC-%EB%A1%9C%EC%A7%81%EA%B3%BC-displayName-%EC%A0%95%EC%A0%9C-%EA%B7%9C%EC%B9%99-%EC%84%A4%EA%B3%84)
 - [크롤링 상품 목록 API: 필터/정렬/페이징 구현](https://velog.io/@shwj203/%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%83%81%ED%92%88-%EB%AA%A9%EB%A1%9D-API-%ED%95%84%ED%84%B0%EC%A0%95%EB%A0%AC%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%84%A4%EA%B3%84-%EA%B8%B0%EB%A1%9D)
 - [단건 API와 여러건(벌크) API를 왜 나누고 어떻게 설계할까](https://velog.io/@shwj203/%EB%8B%A8%EA%B1%B4-API%EC%99%80-%EC%97%AC%EB%9F%AC%EA%B1%B4%EB%B2%8C%ED%81%AC-API%EB%A5%BC-%EC%99%9C-%EB%82%98%EB%88%84%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%A0%EA%B9%8C)
+- [무무의 선물상자에 Qdrant 도입과 스왑(Swap) 고민](https://velog.io/@shwj203/%EB%AC%B4%EB%AC%B4%EC%9D%98-%EC%84%A0%EB%AC%BC%EC%83%81%EC%9E%90%EC%97%90-Qdrant-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%8A%A4%EC%99%91Swap-%EA%B3%A0%EB%AF%BC)
