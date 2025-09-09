@@ -74,6 +74,7 @@
 - [클라우드 비용 없이 Kibana 로그 공유하는 구조 설계기](https://velog.io/@shwj203/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%97%86%EC%9D%B4-Kibana-%EB%A1%9C%EA%B7%B8-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84%EA%B8%B0)
 - [Filebeat + Elasticsearch + Kibana 연결 공유 삽질기 (feat. cloudflared)](https://velog.io/@shwj203/Filebeat-Elasticsearch-Kibana-%EC%97%B0%EA%B2%B0-%EA%B3%B5%EC%9C%A0-%EC%82%BD%EC%A7%88%EA%B8%B0-feat.-cloudflared)
 - [Kibana Discover 어떻게 사용하는 걸까?](https://velog.io/@shwj203/Kibana-Discover-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B1%B8%EA%B9%8C)
+- [AWS EC2에서 Docker 기반 배포 아키텍처 세팅 과정](https://velog.io/@shwj203/AWS-EC2%EC%97%90%EC%84%9C-Docker-%EA%B8%B0%EB%B0%98-%EB%B0%B0%ED%8F%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%B8%ED%8C%85-%EA%B3%BC%EC%A0%95)
 
 ### Git
 - [깃 플로우](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/20.md)
