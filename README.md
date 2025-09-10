@@ -120,6 +120,7 @@
 - [HTTP 완벽가이드 - URL과 리소스](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-2%EC%9E%A5-URL%EA%B3%BC-%EB%A6%AC%EC%86%8C%EC%8A%A4)
 - [HTTP 완벽 가이드 - 프락시(Proxy)](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%94%84%EB%9D%BD%EC%8B%9CProxy)
 - [HTTP 완벽 가이드 - 캐시(Cache)](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%9CCache)
+- [HTTP 완벽 가이드 - 게이트웨이, 터널, 릴레이](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4-%ED%84%B0%EB%84%90-%EB%A6%B4%EB%A0%88%EC%9D%B4)
 
 ### OpenAI
 - [OpenAI Function Calling 기능 정리 (with Java)
