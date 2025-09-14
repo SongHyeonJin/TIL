@@ -123,6 +123,7 @@
 - [HTTP 완벽 가이드 - 게이트웨이, 터널, 릴레이](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4-%ED%84%B0%EB%84%90-%EB%A6%B4%EB%A0%88%EC%9D%B4)
 - [HTTP 완벽 가이드 - 웹 로봇](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9B%B9-%EB%A1%9C%EB%B4%87)
 - [HTTP 완벽 가이드 - HTTP/2.0](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-HTTP2.0)
+- [HTTP 완벽 가이드 - 클라이언트 식별과 쿠키](https://velog.io/@shwj203/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%9D%EB%B3%84%EA%B3%BC-%EC%BF%A0%ED%82%A4)
 
 ### OpenAI
 - [OpenAI Function Calling 기능 정리 (with Java)
