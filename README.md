@@ -228,3 +228,4 @@
 - [단건 API와 여러건(벌크) API를 왜 나누고 어떻게 설계할까](https://velog.io/@shwj203/%EB%8B%A8%EA%B1%B4-API%EC%99%80-%EC%97%AC%EB%9F%AC%EA%B1%B4%EB%B2%8C%ED%81%AC-API%EB%A5%BC-%EC%99%9C-%EB%82%98%EB%88%84%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%A0%EA%B9%8C)
 - [무무의 선물상자에 Qdrant 도입과 스왑(Swap) 고민](https://velog.io/@shwj203/%EB%AC%B4%EB%AC%B4%EC%9D%98-%EC%84%A0%EB%AC%BC%EC%83%81%EC%9E%90%EC%97%90-Qdrant-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%8A%A4%EC%99%91Swap-%EA%B3%A0%EB%AF%BC)
 - [크롤링 상품 벌크 저장: 중복/실패를 분류하고 요약 응답 만들기](https://velog.io/@shwj203/%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%83%81%ED%92%88-%EB%B2%8C%ED%81%AC-%EC%A0%80%EC%9E%A5-%EC%A4%91%EB%B3%B5%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%98%EA%B3%A0-%EC%9A%94%EC%95%BD-%EC%9D%91%EB%8B%B5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [Qdrant 벡터 스토어 적용 과정](https://velog.io/@shwj203/Qdrant-%EB%B2%A1%ED%84%B0-%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%A0%81%EC%9A%A9-%EA%B3%BC%EC%A0%95)
