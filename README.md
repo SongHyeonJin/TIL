@@ -231,3 +231,4 @@
 - [크롤링 상품 벌크 저장: 중복/실패를 분류하고 요약 응답 만들기](https://velog.io/@shwj203/%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%83%81%ED%92%88-%EB%B2%8C%ED%81%AC-%EC%A0%80%EC%9E%A5-%EC%A4%91%EB%B3%B5%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%98%EA%B3%A0-%EC%9A%94%EC%95%BD-%EC%9D%91%EB%8B%B5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Qdrant 벡터 스토어 적용 과정](https://velog.io/@shwj203/Qdrant-%EB%B2%A1%ED%84%B0-%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%A0%81%EC%9A%A9-%EA%B3%BC%EC%A0%95)
 - [OpenAI 임베딩 + Qdrant 업서트 파이프라인 적용기 (Spring Boot, JDK 21)](https://velog.io/@shwj203/OpenAI-임베딩-Qdrant-업서트-파이프라인-적용기-Spring-Boot-JDK-21)
+- [EC2에 Qdrant 적용 + CI/CD & 테스트 실패 해결기](https://velog.io/@shwj203/EC2%EC%97%90-Qdrant-%EC%A0%81%EC%9A%A9-CICD-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%A4%ED%8C%A8-%ED%95%B4%EA%B2%B0%EA%B8%B0)
