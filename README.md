@@ -13,7 +13,7 @@
 - [시뮬레이션(Simulation) 알고리즘](https://velog.io/@shwj203/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98Simulation-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [애드혹 알고리즘 (Ad-hoc Algorithm)](https://velog.io/@shwj203/%EC%95%A0%EB%93%9C%ED%98%B9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Ad-hoc-Algorithm)
 - [최소 스패닝 트리(Minimum Spanning Tree, MST) 알고리즘](https://velog.io/@shwj203/%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [](https://velog.io/@shwj203/%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5Divide-and-Conquer-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [분할 정복(Divide and Conquer) 알고리즘](https://velog.io/@shwj203/%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5Divide-and-Conquer-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ### Architecture
 - [프로젝트 시작 전 꼭 해야 할 설계 3단계](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/23.md)
@@ -209,6 +209,9 @@
 ### 컴퓨터 구조
 - [[컴퓨터 구조] CPU와 레지스터의 개념과 흐름 정리](https://velog.io/@shwj203/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-CPU%EC%99%80-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
 - [메인 메모리와 캐시 메모리](https://velog.io/@shwj203/%EB%A9%94%EC%9D%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC)
+
+### 코딩테스트
+- [[Lv.3 / Programmers / Java] 산 모양 타일링](https://velog.io/@shwj203/Lv.3-Programmers-Java-%EC%82%B0-%EB%AA%A8%EC%96%91-%ED%83%80%EC%9D%BC%EB%A7%81)
 
 ### 프로젝트 회고
 - [선물 추천 키워드 조합 및 브랜드 중복 필터링 구현기](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A1%B0%ED%95%A9-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A4%91%EB%B3%B5-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%EA%B8%B0)
