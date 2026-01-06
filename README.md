@@ -154,6 +154,9 @@
 - [Redis Queue + Lua + Kafka 기반 선착순 쿠폰 발급 구조 개선기](https://velog.io/@shwj203/Redis-Queue-Lua-Kafka-%EA%B8%B0%EB%B0%98-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 - [Redis POLLING / BLOCKING / BRPOP / BLPOP 개념 정리](https://velog.io/@shwj203/Redis-BRPOP-BLPOP-POLLING-BLOCKING-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 
+### Search
+- [GPT로 짧은 설명과 카테고리를 보정해 벡터 검색 품질을 높인 과정](https://velog.io/@shwj203/GPT%EB%A1%9C-%EC%A7%A7%EC%9D%80-%EC%84%A4%EB%AA%85%EA%B3%BC-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B3%B4%EC%A0%95%ED%95%B4-%EB%B2%A1%ED%84%B0-%EA%B2%80%EC%83%89-%ED%92%88%EC%A7%88%EC%9D%84-%EB%86%92%EC%9D%B8-%EA%B3%BC%EC%A0%95)
+
 ### Security
 - [JWT 개념 및 동작 방식](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/24.md)
 - [Spring Security 권한 에러(403) 응답을 JSON 포맷으로 커스터마이징하기](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/25.md)
