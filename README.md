@@ -199,6 +199,9 @@
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초 13장: 검색어 자동완성 시스템](https://velog.io/@shwj203/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-13%EC%9E%A5-%EA%B2%80%EC%83%89%EC%96%B4-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [Vector Store란?](https://velog.io/@shwj203/Vector-Store)
 
+### Test
+- [Spring Controller 테스트에서 WebMvcTest 대신 standalone MockMvc를 선택한 이유](https://velog.io/@shwj203/Spring-Controller-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-WebMvcTest-%EB%8C%80%EC%8B%A0-standalone-MockMvc%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+
 ### Trobleshooting
 - [쿠팡파트너스 검색 API 호출 제한 및 가격 필터링 이슈](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%ED%95%84%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%8A%88)
 - [쿠팡파트너스 API에서 네이버 쇼핑 API로 전환한 이유](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API%EC%97%90%EC%84%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%87%BC%ED%95%91-API%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%9C-%EC%9D%B4%EC%9C%A0)
