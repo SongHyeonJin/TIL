@@ -221,6 +221,7 @@
 - [[Lv.0 / Programmers / Java] 배열 회전시키기](https://velog.io/@shwj203/Lv.0-Programmers-Java-%EB%B0%B0%EC%97%B4-%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0)
 - [알고리즘 최적화: for-loop가 Stream보다 빠를까?](https://velog.io/@shwj203/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-for-loop%EA%B0%80-Stream%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%BC%EA%B9%8C)
 - [Java 알고리즘: 성능 최적화를 위한 자료구조 선택의 고찰](https://velog.io/@shwj203/Java-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%83%9D%EC%9D%98-%EA%B3%A0%EC%B0%B0)
+- [[Lv.2 / Programmers / Java] 타겟 넘버](https://velog.io/@shwj203/Lv.2-Programmers-Java-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)
 
 ### 프로젝트 회고
 - [선물 추천 키워드 조합 및 브랜드 중복 필터링 구현기](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A1%B0%ED%95%A9-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A4%91%EB%B3%B5-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%EA%B8%B0)
