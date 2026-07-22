@@ -165,6 +165,9 @@
 - [쿠팡파트너스 API 연동: HMAC 서명과 상품 검색 구현](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API-%EC%97%B0%EB%8F%99-HMAC-%EC%84%9C%EB%AA%85%EA%B3%BC-%EC%83%81%ED%92%88-%EA%B2%80%EC%83%89-%EA%B5%AC%ED%98%84)
 - [쿠팡파트너스 API 한글 키워드 검색 시 Invalid signature 문제 해결](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API-%ED%95%9C%EA%B8%80-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B2%80%EC%83%89-%EC%8B%9C-Invalid-signature-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 
+### Spring AI
+- [Spring AI 2.0 GA: 툴 콜링 루프는 왜 어드바이저 체인으로 나왔나](https://velog.io/@shwj203/Spring-AI-2.0-GA-%ED%88%B4-%EC%BD%9C%EB%A7%81-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%99%9C-%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80-%EC%B2%B4%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%99%94%EB%82%98)
+
 ### Spring Boot
 - [Spring Boot 테스트 삽질기 & @EnableJpaAuditing 이슈 해결](https://velog.io/@shwj203/Spring-Boot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%BD%EC%A7%88%EA%B8%B0-EnableJpaAuditing-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
 - [Spring Boot start.sh 개선 과정과 그레이스풀 리스타트의 중요성](https://velog.io/@shwj203/Spring-Boot-start.sh-%EA%B0%9C%EC%84%A0-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%92%80-%EB%A6%AC%EC%8A%A4%ED%83%80%ED%8A%B8%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
