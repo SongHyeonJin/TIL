@@ -186,6 +186,7 @@
 - [@Transactional(readOnly = true)를 사용하는 이유와 주의할 점](https://velog.io/@shwj203/TransactionalreadOnly-true%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [Graceful Shutdown이란?](https://velog.io/@shwj203/Graceful-Shutdown%EC%9D%B4%EB%9E%80)
 - [JAR vs WAR 이해하기](https://velog.io/@shwj203/JAR-vs-WAR-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [@Transactional은 마법이 아니다. 프록시, 전파, 그리고 롤백의 진실](https://velog.io/@shwj203/Transactional%EC%9D%80-%EB%A7%88%EB%B2%95%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4.-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%A0%84%ED%8C%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A1%A4%EB%B0%B1%EC%9D%98-%EC%A7%84%EC%8B%A4)
 
 ### Spring Security
 - [쿠키와 세션의 차이와 동작 방식 정리](https://velog.io/@shwj203/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%99%80-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC)
