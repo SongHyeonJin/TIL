@@ -191,6 +191,7 @@
 - [JAR vs WAR 이해하기](https://velog.io/@shwj203/JAR-vs-WAR-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [@Transactional은 마법이 아니다. 프록시, 전파, 그리고 롤백의 진실](https://velog.io/@shwj203/Transactional%EC%9D%80-%EB%A7%88%EB%B2%95%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4.-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%A0%84%ED%8C%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A1%A4%EB%B0%B1%EC%9D%98-%EC%A7%84%EC%8B%A4)
 - [@Transactional은 프록시를 타야 산다: FastCoupon 발급 컨슈머의 self-invocation과 DLQ 구축 재구축](https://velog.io/@shwj203/Transactional%EC%9D%80-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A5%BC-%ED%83%80%EC%95%BC-%EC%82%B0%EB%8B%A4-FastCoupon-%EB%B0%9C%EA%B8%89-%EC%BB%A8%EC%8A%88%EB%A8%B8%EC%9D%98-self-invocation%EA%B3%BC-DLQ-%EA%B5%AC%EC%B6%95-%EC%9E%AC%EA%B5%AC%EC%B6%95)
+- [블로킹 한 줄이 WebFlux 이벤트 루프를 멈추는 과정](https://velog.io/@shwj203/%EB%B8%94%EB%A1%9C%ED%82%B9-%ED%95%9C-%EC%A4%84%EC%9D%B4-WebFlux-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%A5%BC-%EB%A9%88%EC%B6%94%EB%8A%94-%EA%B3%BC%EC%A0%95)
 
 ### Spring Security
 - [쿠키와 세션의 차이와 동작 방식 정리](https://velog.io/@shwj203/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%99%80-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC)
