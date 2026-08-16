@@ -54,6 +54,7 @@
 - [SQL JOIN 종류 정리](https://velog.io/@shwj203/SQL-JOIN-%EC%A2%85%EB%A5%98-%EC%A0%95%EB%A6%AC)
 - [OLAP이란?](https://velog.io/@shwj203/OLAP%EC%9D%B4%EB%9E%80)
 - [데이터 웨어하우스(Data Warehouse, DW)란?](https://velog.io/@shwj203/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9B%A8%EC%96%B4%ED%95%98%EC%9A%B0%EC%8A%A4Data-Warehouse-DW%EB%9E%80)
+- [조건에 없는 값을 INSERT했는데 왜 멈추나: InnoDB의 Record, Gap, Next-Key Lock](https://velog.io/@shwj203/%EC%A1%B0%EA%B1%B4%EC%97%90-%EC%97%86%EB%8A%94-%EA%B0%92%EC%9D%84-INSERT%ED%96%88%EB%8A%94%EB%8D%B0-%EC%99%9C-%EB%A9%88%EC%B6%94%EB%82%98-InnoDB%EC%9D%98-Record-Gap-Next-Key-Lock)
 
 ### Design Pattern
 - [디자인 패턴이란? 그리고 생성(Creational) 디자인 패턴 정리](https://velog.io/@shwj203/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1Creational-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A0%95%EB%A6%AC)
