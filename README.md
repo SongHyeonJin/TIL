@@ -91,6 +91,7 @@
 - [JVM GC 딥다이브: G1 vs Generational ZGC, 무엇을 언제 쓰나](https://velog.io/@shwj203/JVM-GC-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-G1-vs-Generational-ZGC-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%93%B0%EB%82%98)
 - [가상 스레드를 켰는데 오히려 느려졌다: synchronized가 캐리어를 붙잡는 순간](https://velog.io/@shwj203/%EA%B0%80%EC%83%81-%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%BC%B0%EB%8A%94%EB%8D%B0-%EC%98%A4%ED%9E%88%EB%A0%A4-%EB%8A%90%EB%A0%A4%EC%A1%8C%EB%8B%A4-synchronized%EA%B0%80-%EC%BA%90%EB%A6%AC%EC%96%B4%EB%A5%BC-%EB%B6%99%EC%9E%A1%EB%8A%94-%EC%88%9C%EA%B0%84)
 - [자물쇠 아이콘 뒤에서 벌어지는 일: TLS 1.3 핸드셰이크가 왕복 한 번에 끝나는 법](https://velog.io/@shwj203/%EC%9E%90%EB%AC%BC%EC%87%A0-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%92%A4%EC%97%90%EC%84%9C-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC-TLS-1.3-%ED%95%B8%EB%93%9C%EC%85%B0%EC%9D%B4%ED%81%AC%EA%B0%80-%EC%99%95%EB%B3%B5-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%81%9D%EB%82%98%EB%8A%94-%EB%B2%95)
+- [스레드를 왜 무한정 못 늘리나: 컨텍스트 스위칭 비용과 Virtual Thread의 mount/unmount](https://velog.io/@shwj203/%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%99%9C-%EB%AC%B4%ED%95%9C%EC%A0%95-%EB%AA%BB-%EB%8A%98%EB%A6%AC%EB%82%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%AD-%EB%B9%84%EC%9A%A9%EA%B3%BC-Virtual-Thread%EC%9D%98-mountunmount)
 
 ### Jpa
 - [JPA의 영속성 컨텍스트(Persistence Context)와 엔티티 매니저(EntityManager)](https://velog.io/@shwj203/JPA%EC%9D%98-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8Persistence-Context%EC%99%80-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%EB%8B%88%EC%A0%80EntityManager)
