@@ -215,7 +215,7 @@
 ### Test
 - [Spring Controller 테스트에서 WebMvcTest 대신 standalone MockMvc를 선택한 이유](https://velog.io/@shwj203/Spring-Controller-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-WebMvcTest-%EB%8C%80%EC%8B%A0-standalone-MockMvc%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
-### Trobleshooting
+### Troubleshooting
 - [쿠팡파트너스 검색 API 호출 제한 및 가격 필터링 이슈](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EA%B2%80%EC%83%89-API-%ED%98%B8%EC%B6%9C-%EC%A0%9C%ED%95%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%ED%95%84%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%8A%88)
 - [쿠팡파트너스 API에서 네이버 쇼핑 API로 전환한 이유](https://velog.io/@shwj203/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-API%EC%97%90%EC%84%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%87%BC%ED%95%91-API%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 - [선물 추천 서비스의 다양성과 중복 개선을 위한 추천 로직 리팩토링](https://velog.io/@shwj203/%EC%84%A0%EB%AC%BC-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%8B%A4%EC%96%91%EC%84%B1%EA%B3%BC-%EC%A4%91%EB%B3%B5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-%EB%A1%9C%EC%A7%81-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
@@ -224,6 +224,7 @@
 - [동시성 이슈 해결기: KeywordGroup 저장 시 중복 삽입 문제와 캐시 기반 최적화](https://velog.io/@shwj203/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%EA%B8%B0-KeywordGroup-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%A4%91%EB%B3%B5-%EC%82%BD%EC%9E%85-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%BA%90%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [추천 시스템 키워드 처리 리팩토링과 fallback 보완 전략](https://velog.io/@shwj203/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B2%98%EB%A6%AC-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EA%B3%BC-fallback-%EB%B3%B4%EC%99%84-%EC%A0%84%EB%9E%B5)
 - [추천 서비스에서 광고/비광고 노출 정책과 크롤링 안정성 고민](https://velog.io/@shwj203/%EA%B4%91%EA%B3%A0-%EA%B0%9C%EC%88%98-%EA%B3%A0%EC%A0%95-%EC%9D%B4%EC%8A%88-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%B0%A8%EB%8B%A8-%EB%8C%80%EC%9D%91)
+- [주문 10건을 부르면 쿼리가 12번 나간다: @BatchSize로 페이지 크기와 쿼리 수를 떼어놓기](https://velog.io/@shwj203/%EC%A3%BC%EB%AC%B8-10%EA%B1%B4%EC%9D%84-%EB%B6%80%EB%A5%B4%EB%A9%B4-%EC%BF%BC%EB%A6%AC%EA%B0%80-12%EB%B2%88-%EB%82%98%EA%B0%84%EB%8B%A4-BatchSize%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%AC%EA%B8%B0%EC%99%80-%EC%BF%BC%EB%A6%AC-%EC%88%98%EB%A5%BC-%EB%96%BC%EC%96%B4%EB%86%93%EA%B8%B0)
 
 ### 컴퓨터 구조
 - [[컴퓨터 구조] CPU와 레지스터의 개념과 흐름 정리](https://velog.io/@shwj203/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-CPU%EC%99%80-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
