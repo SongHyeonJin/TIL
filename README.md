@@ -161,6 +161,7 @@
 - [Redis POLLING / BLOCKING / BRPOP / BLPOP 개념 정리](https://velog.io/@shwj203/Redis-BRPOP-BLPOP-POLLING-BLOCKING-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 - [Redis를 붙였는데도 만료 시각마다 DB가 죽는 이유](https://velog.io/@shwj203/Redis%EB%A5%BC-%EB%B6%99%EC%98%80%EB%8A%94%EB%8D%B0%EB%8F%84-%EB%A7%8C%EB%A3%8C-%EC%8B%9C%EA%B0%81%EB%A7%88%EB%8B%A4-DB%EA%B0%80-%EC%A3%BD%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [Redis는 메모리가 꽉 차도 오래된 키를 지우지 않는다](https://velog.io/@shwj203/Redis%EB%8A%94-%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B0%80-%EA%BD%89-%EC%B0%A8%EB%8F%84-%EC%98%A4%EB%9E%98%EB%90%9C-%ED%82%A4%EB%A5%BC-%EC%A7%80%EC%9A%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
+- [컨시스턴트 해싱은 노드가 늘어도 캐시를 지킨다. 그런데 Redis Cluster는 이걸 안 쓴다](https://velog.io/@shwj203/%EC%BB%A8%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%ED%95%B4%EC%8B%B1%EC%9D%80-%EB%85%B8%EB%93%9C%EA%B0%80-%EB%8A%98%EC%96%B4%EB%8F%84-%EC%BA%90%EC%8B%9C%EB%A5%BC-%EC%A7%80%ED%82%A8%EB%8B%A4.-%EA%B7%B8%EB%9F%B0%EB%8D%B0-Redis-Cluster%EB%8A%94-%EC%9D%B4%EA%B1%B8-%EC%95%88-%EC%93%B4%EB%8B%A4)
 
 ### Search
 - [GPT로 짧은 설명과 카테고리를 보정해 벡터 검색 품질을 높인 과정](https://velog.io/@shwj203/GPT%EB%A1%9C-%EC%A7%A7%EC%9D%80-%EC%84%A4%EB%AA%85%EA%B3%BC-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B3%B4%EC%A0%95%ED%95%B4-%EB%B2%A1%ED%84%B0-%EA%B2%80%EC%83%89-%ED%92%88%EC%A7%88%EC%9D%84-%EB%86%92%EC%9D%B8-%EA%B3%BC%EC%A0%95)
