@@ -93,6 +93,7 @@
 - [자물쇠 아이콘 뒤에서 벌어지는 일: TLS 1.3 핸드셰이크가 왕복 한 번에 끝나는 법](https://velog.io/@shwj203/%EC%9E%90%EB%AC%BC%EC%87%A0-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%92%A4%EC%97%90%EC%84%9C-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC-TLS-1.3-%ED%95%B8%EB%93%9C%EC%85%B0%EC%9D%B4%ED%81%AC%EA%B0%80-%EC%99%95%EB%B3%B5-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%81%9D%EB%82%98%EB%8A%94-%EB%B2%95)
 - [스레드를 왜 무한정 못 늘리나: 컨텍스트 스위칭 비용과 Virtual Thread의 mount/unmount](https://velog.io/@shwj203/%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%99%9C-%EB%AC%B4%ED%95%9C%EC%A0%95-%EB%AA%BB-%EB%8A%98%EB%A6%AC%EB%82%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%AD-%EB%B9%84%EC%9A%A9%EA%B3%BC-Virtual-Thread%EC%9D%98-mountunmount)
 - [HashMap은 그냥 배열이 아니다: 버킷이 트리로 바뀌고 테이블이 두 배로 커지는 순간](https://velog.io/@shwj203/HashMap%EC%9D%80-%EA%B7%B8%EB%83%A5-%EB%B0%B0%EC%97%B4%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-%EB%B2%84%ED%82%B7%EC%9D%B4-%ED%8A%B8%EB%A6%AC%EB%A1%9C-%EB%B0%94%EB%80%8C%EA%B3%A0-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%B4-%EB%91%90-%EB%B0%B0%EB%A1%9C-%EC%BB%A4%EC%A7%80%EB%8A%94-%EC%88%9C%EA%B0%84)
+- [서버가 배포 직후에만 느린 이유: JIT와 Tiered Compilation](https://velog.io/@shwj203/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%B0%B0%ED%8F%AC-%EC%A7%81%ED%9B%84%EC%97%90%EB%A7%8C-%EB%8A%90%EB%A6%B0-%EC%9D%B4%EC%9C%A0-JIT%EC%99%80-Tiered-Compilation)
 
 ### Jpa
 - [JPA의 영속성 컨텍스트(Persistence Context)와 엔티티 매니저(EntityManager)](https://velog.io/@shwj203/JPA%EC%9D%98-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8Persistence-Context%EC%99%80-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%EB%8B%88%EC%A0%80EntityManager)
