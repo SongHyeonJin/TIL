@@ -39,6 +39,7 @@
 ### Concurrency
 - [RedisQueueWorker 구조 개선 (Polling -> Event-driven Blocking)](https://velog.io/@shwj203/RedisQueueWorker-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0-Polling-Event-driven-Blocking)
 - [Redisson 분산 락 기반 쿠폰 발급 시스템](https://velog.io/@shwj203/Redisson-%EB%B6%84%EC%82%B0-%EB%9D%BD-%EA%B8%B0%EB%B0%98-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84)
+- [멱등한 설계가 중요한 이유: 재시도해도 결제는 한 번만 나가야 한다](https://velog.io/@shwj203/%EB%A9%B1%EB%93%B1%ED%95%9C-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%B4%EB%8F%84-%EA%B2%B0%EC%A0%9C%EB%8A%94-%ED%95%9C-%EB%B2%88%EB%A7%8C-%EB%82%98%EA%B0%80%EC%95%BC-%ED%95%9C%EB%8B%A4)
 
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
