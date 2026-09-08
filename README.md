@@ -43,6 +43,7 @@
 - [뮤텍스와 세마포어의 차이는 카운터가 아니라 소유권이다](https://velog.io/@shwj203/%EB%AE%A4%ED%85%8D%EC%8A%A4%EC%99%80-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EC%B9%B4%EC%9A%B4%ED%84%B0%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%86%8C%EC%9C%A0%EA%B6%8C%EC%9D%B4%EB%8B%A4)
 - [데드락을 재현하려고 가상 스레드를 썼더니 걸렸는데도 0으로 나왔다](https://velog.io/@shwj203/%EB%8D%B0%EB%93%9C%EB%9D%BD%EC%9D%84-%EC%9E%AC%ED%98%84%ED%95%98%EB%A0%A4%EA%B3%A0-%EA%B0%80%EC%83%81-%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%8D%BC%EB%8D%94%EB%8B%88-%EA%B1%B8%EB%A0%B8%EB%8A%94%EB%8D%B0%EB%8F%84-0%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%99%94%EB%8B%A4)
 - [비관적 락과 낙관적 락](https://velog.io/@shwj203/%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD%EA%B3%BC-%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD)
+- [커밋 시점에 디스크로 내려가는 건 데이터가 아니라 로그다](https://velog.io/@shwj203/%EC%BB%A4%EB%B0%8B-%EC%8B%9C%EC%A0%90%EC%97%90-%EB%94%94%EC%8A%A4%ED%81%AC%EB%A1%9C-%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94-%EA%B1%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EB%A1%9C%EA%B7%B8%EB%8B%A4)
 
 ### Database
 - [데이터 모델링](https://github.com/SongHyeonJin/TIL/blob/main/2025/03/21.md)
