@@ -113,6 +113,7 @@
 - [Dead Letter Queue (DLQ)](https://velog.io/@shwj203/Dead-Letter-Queue-DLQ)
 - [Kafka Producer를 제너럴하게 리팩토링](https://velog.io/@shwj203/Kafka-Producer%EB%A5%BC-%EC%A0%9C%EB%84%88%EB%9F%B4%ED%95%98%EA%B2%8C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
 - [Kafka DLQ(Dead Letter Queue) 적용기](https://velog.io/@shwj203/Kafka-DLQDead-Letter-Queue-%EC%A0%81%EC%9A%A9%EA%B8%B0)
+- [Kafka는 토픽이 아니라 파티션 안에서만 순서를 보장한다](https://velog.io/@shwj203/Kafka%EB%8A%94-%ED%86%A0%ED%94%BD%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%8C%8C%ED%8B%B0%EC%85%98-%EC%95%88%EC%97%90%EC%84%9C%EB%A7%8C-%EC%88%9C%EC%84%9C%EB%A5%BC-%EB%B3%B4%EC%9E%A5%ED%95%9C%EB%8B%A4)
 
 ### Logging
 - [Spring Boot에서 Logback 설정하는 방법 정리](https://velog.io/@shwj203/Spring-Boot%EC%97%90%EC%84%9C-Logback-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
